@@ -19,3 +19,15 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
+
+h1 {
+    color: cornsilk;
+    background-color: black;
+}
+
+.styling h1 {
+    color: rgb(138, 97, 168);
+}
+.logo {
+    color: chartreuse;
+}
